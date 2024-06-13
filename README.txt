@@ -1,1 +1,1 @@
-# Documentation and notes for Fuga Project
+# Documentation and notes for Fuga project in "Wiki" section.
